@@ -1,0 +1,13 @@
+{
+  "name": "quinta-malu-backend",
+  "version": "1.0.0",
+  "description": "Backend Supabase - Quinta Malu",
+  "type": "module",
+  "scripts": {
+    "test": "node test_produtos.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.0",
+    "dotenv": "^16.4.7"
+  }
+}

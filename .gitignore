@@ -1,0 +1,16 @@
+# Variáveis de ambiente e segredos (NUNCA enviar para o GitHub)
+.env
+.env.local
+*.env
+
+# Dependências
+node_modules/
+
+# Logs e ficheiros temporários
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
